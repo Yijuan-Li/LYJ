@@ -6,11 +6,9 @@ baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   https://x.com/serena_lyjuan?t=RVuhMMCMiPkaru_oVax0pA&s=09
-github_username:    StartBootstrap
-facebook_username:  https://www.facebook.com/profile.php?id=100089759058416&mibextid=9R9pXO
-instagram_username:  
-linkedin_username: https://www.linkedin.com/in/yijuan-li-1a9634227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+twitter_username:   serena_lyjuan?t=RVuhMMCMiPkaru_oVax0pA&s=09
+facebook_username:  profile.php?id=100089759058416&mibextid=9R9pXO 
+linkedin_username:  in/yijuan-li-1a9634227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
