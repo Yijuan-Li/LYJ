@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Li Yijuan | 李懿娟
+email:              serenalyjuan@gmail.com
+description:        Freelance Writer | 自由作者
+author:             Li Yijuan
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:   https://x.com/serena_lyjuan?t=RVuhMMCMiPkaru_oVax0pA&s=09
 github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+facebook_username:  https://www.facebook.com/profile.php?id=100089759058416&mibextid=9R9pXO
 instagram_username:  
-linkedin_username:
+linkedin_username: https://www.linkedin.com/in/yijuan-li-1a9634227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
